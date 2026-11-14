@@ -10,7 +10,7 @@
 
 ---
 
-## 🎯 The Problem
+## 🎯 The Problem.
 
 Most interview prep fails—not because resources are scarce, but because **consistency is hard to maintain alone**. People binge LeetCode for a weekend, then go cold for two weeks. When the actual interview arrives, the preparation is stale and the confidence is hollow.
 
